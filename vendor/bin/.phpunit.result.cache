@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"App\\Tests\\HolaMundoTest::testDiceHolaMundoCuandoSaluda":0.012}}
+{"version":1,"defects":{"App\\Tests\\FizzBuzzTest::testCuandoLedoyElNumeroTresMeDevuelveFizz":3},"times":{"App\\Tests\\HolaMundoTest::testDiceHolaMundoCuandoSaluda":0.012,"App\\Tests\\FizzBuzzTest::testCuandoLedoyElNumeroTresMeDevuelveFizz":0.01,"App\\Tests\\FizzBuzzTest::testCuandoLedoyElNumeroCincoMeDevuelveBuzz":0,"App\\Tests\\FizzBuzzTest::testCuandoLedoyElNumeroQuinceMeDevuelveFizzBuzz":0,"App\\Tests\\FizzBuzzTest::testCuandoLedoyElNumeroUnoMeDevuelveUno":0}}
