@@ -5,6 +5,8 @@ namespace App\Tests;
 use App\FizzBuzz;
 use PHPUnit\Framework\TestCase;
 
+
+
 class FizzBuzzTest extends TestCase
 {
   /*
@@ -57,7 +59,7 @@ class FizzBuzzTest extends TestCase
 
   /**
    * @dataProvider casosDeUso
-   *  
+   * 
    */
 
   public function testFizzBuzz($numeroATestear, $resultadoEsperado)
